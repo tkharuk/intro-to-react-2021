@@ -1,0 +1,20 @@
+/* @theme ctheme */
+
+@import "gaia";
+
+video[autoplay] {
+  width: 90%;
+  aspect-ratio: 16 / 8;
+  margin-top: 1rem;
+}
+
+section.centered {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+}
+
+section.img-centered img {
+  display: flex;
+  margin: 0 auto;
+}
