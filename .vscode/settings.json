@@ -1,10 +1,10 @@
 {
-  "markdown.marp.themes": ["./theme.css"],
-  "markdown.marp.outlineExtension": true,
-  "markdown.marp.enableHtml": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "[markdown]": {
     "files.trimTrailingWhitespace": false
-  }
+  },
+  "markdown.marp.themes": ["./theme.css"],
+  "markdown.marp.outlineExtension": true,
+  "markdown.marp.enableHtml": true
 }
