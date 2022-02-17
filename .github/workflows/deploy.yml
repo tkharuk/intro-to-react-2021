@@ -10,6 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      - name: copy images to dis
+        run: cp -R ./images ./dist
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:

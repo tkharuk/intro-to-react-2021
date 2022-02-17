@@ -2,6 +2,10 @@
 
 @import "gaia";
 
+section.more-space {
+  padding: 15px 30px !important;
+}
+
 video[autoplay] {
   width: 90%;
   aspect-ratio: 16 / 8;

@@ -6,5 +6,8 @@
   },
   "markdown.marp.themes": ["./theme.css"],
   "markdown.marp.outlineExtension": true,
-  "markdown.marp.enableHtml": true
+  "markdown.marp.enableHtml": true,
+  "[ignore]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  }
 }
