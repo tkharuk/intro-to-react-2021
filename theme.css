@@ -22,3 +22,7 @@ section.img-centered img {
   display: flex;
   margin: 0 auto;
 }
+
+section.smaller-list ul li {
+  font-size: 0.8rem;
+}
