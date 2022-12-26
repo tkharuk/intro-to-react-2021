@@ -16,7 +16,7 @@ html: true
 
 ---
 
-### Types of testing
+  ### Types of testing
 
 * **static checks** - via TypeScript, linters, jsdoc, etc
 * **unit tests** - ensure smallest parts of application work as intended
